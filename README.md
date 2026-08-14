@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 ## Bit Manipulation
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
