@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
