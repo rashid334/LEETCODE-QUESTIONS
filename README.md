@@ -25,12 +25,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1991-find-the-middle-index-in-array) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1991-find-the-middle-index-in-array) |
