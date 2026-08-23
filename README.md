@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
