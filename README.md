@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
 | [1991-find-the-middle-index-in-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
@@ -70,4 +71,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
+| [1672-richest-customer-wealth](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
