@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
@@ -68,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
