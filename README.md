@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2235-add-two-integers](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
