@@ -10,21 +10,24 @@
  */
 class Solution {
     public ListNode mergeTwoLists(ListNode head1, ListNode head2) {
-   if(head1==null || head2==null){
-    if(head1==null){
-return head2;
-    }
-    else{
-        return head1;
-    }
-   }
-   if(head1.val<=head2.val){
-    head1.next=mergeTwoLists(head1.next,head2);
-    return head1;
-   }
-   else{
-    head2.next=mergeTwoLists(head1,head2.next);
-return head2;
-   }
+ ArrayList<Integer> arr = new ArrayList<>();
+ ListNode temp1 = head1;
+ ListNode temp2 = head2;
+ while(temp1!=null){
+    arr.add(temp1.val);
+    temp1=temp1.next;
+ }
+ while(temp2!=null){
+    arr.add(temp2.val);
+    temp2=temp2.next;
+ }
+ Collections.sort(arr);
+ ListNode dummy = new ListNode(0);
+ ListNode temp = dummy;
+ for(int i=0;i<arr.size();i++){
+    temp.next = new ListNode(arr.get(i));
+    temp = temp.next;
+ }
+ return dummy.next;
     }
 }
