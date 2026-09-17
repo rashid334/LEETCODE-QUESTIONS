@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0278-first-bad-version) |
 ## Newton's Method
 |  |
 | ------- |
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
