@@ -1,24 +1,43 @@
+import java.util.*;
+
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
-       int ans[] = new int[nums1.length];
-       for(int i=0;i<nums1.length;i++){
-        ans[i]=-1;
-       }
-       for(int i=0;i<nums1.length;i++){
-        int idx=0;
-        for(int j=0;j<nums2.length;j++){
-            if(nums1[i]==nums2[j]){
-               idx = j;
-               break;
+
+        int n = nums2.length;
+        int[] nge = new int[n];
+
+        Stack<Integer> st = new Stack<>();
+
+        // Find Next Greater Element for every element of nums2
+        for (int i = n - 1; i >= 0; i--) {
+
+            while (!st.empty() && st.peek() <= nums2[i]) {
+                st.pop();
+            }
+
+            if (st.empty()) {
+                nge[i] = -1;
+            } else {
+                nge[i] = st.peek();
+            }
+
+            st.push(nums2[i]);
+        }
+
+        // Find answers for nums1
+        int[] ans = new int[nums1.length];
+
+        for (int i = 0; i < nums1.length; i++) {
+
+            for (int j = 0; j < nums2.length; j++) {
+
+                if (nums1[i] == nums2[j]) {
+                    ans[i] = nge[j];
+                    break;
+                }
             }
         }
-        for(int j=idx+1;j<nums2.length;j++){
-if(nums2[idx]<nums2[j]){
-    ans[i]=nums2[j];
-    break;
-}
-        }
-       } 
-       return ans;
+
+        return ans;
     }
 }
