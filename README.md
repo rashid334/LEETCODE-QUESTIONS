@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 ## Design
