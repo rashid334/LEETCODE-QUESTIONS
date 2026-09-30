@@ -10,21 +10,21 @@ class Solution {
 
         for (int i = 2 * n - 1; i >= 0; i--) {
 
-            int index = i % n;
+           // int index = i % n;
 
-            while (!st.isEmpty() && st.peek() <= nums[index]) {
+            while (!st.isEmpty() && st.peek() <= nums[i%n]) {
                 st.pop();
             }
 
             if (i < n) {
                 if (st.isEmpty()) {
-                    arr[index] = -1;
+                    arr[i] = -1;
                 } else {
-                    arr[index] = st.peek();
+                    arr[i] = st.peek();
                 }
             }
 
-            st.push(nums[index]);
+            st.push(nums[i%n]);
         }
 
         return arr;
