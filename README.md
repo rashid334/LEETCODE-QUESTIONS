@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1991-find-the-middle-index-in-array) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
