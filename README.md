@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1381-design-a-stack-with-increment-operation) |
