@@ -1,15 +1,30 @@
 import java.util.*;
+
 class Solution {
+
     public int majorityElement(int[] nums) {
-         Arrays.sort(nums);int count =1;
-         for(int i=0;i<nums.length-1;i++){
-            
-         if(nums[i]==nums[i+1]) count++;
-         else{
-            if(count>nums.length/2 ) return nums[i];
-            count=1;
-         }
-         } if(count>nums.length/2) return nums[nums.length-1];
-          return -1;
+
+        Arrays.sort(nums);
+
+        for(int i = 0; i < nums.length; i++){
+
+            int count = 1;
+
+            for(int j = i + 1; j < nums.length; j++){
+
+                if(nums[i] == nums[j]){
+                    count++;
+                }
+                else{
+                    break;
+                }
+            }
+
+            if(count > nums.length / 2){
+                return nums[i];
+            }
+        }
+
+        return 0;
     }
 }
