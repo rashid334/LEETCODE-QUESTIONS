@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1572-matrix-diagonal-sum) |
