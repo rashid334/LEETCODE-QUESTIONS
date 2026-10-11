@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0344-reverse-string) |
 ## Stack
 |  |
