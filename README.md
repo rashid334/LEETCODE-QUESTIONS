@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0705-design-hashset) |
 | [0724-find-pivot-index](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0739-daily-temperatures) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0705-design-hashset) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0705-design-hashset) |
 | [0901-online-stock-span](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0901-online-stock-span) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Data Stream
@@ -215,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0014-longest-common-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/rashid334/LEETCODE-QUESTIONS/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
